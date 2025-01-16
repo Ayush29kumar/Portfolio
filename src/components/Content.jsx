@@ -1,6 +1,6 @@
 import React from "react";
 
-import Image from "../assets/images/bharat.jpg";
+import Image from "../assets/images/bharat.png";
 import asmi from "../assets/images/asmi.png";
 import quiz from "../assets/images/quiz.png";
 import comfy from "../assets/images/comfy.png";
@@ -85,7 +85,7 @@ const Content = () => {
             </h1>
             <div className="flex-grow border-t border-black dark:border-white border-1"></div>
             <a
-              href="https://github.com/Bharat-bhandari"
+              href="https://github.com/Ayush29kumar"
               className="pl-2 text-sm text-right sm:pl-5 hover:text-link-color"
             >
               Visit Archive
@@ -237,7 +237,7 @@ const Content = () => {
               </div>
               <div className="order-first pb-4 lg:pb-0 lg:order-none lg:block">
                 <a
-                  href="https://drive.google.com/file/d/1KV-kqNSzK2Iwq1UrHIdWh2HCbVszHopd/view?usp=sharing"
+                  href="https://drive.google.com/file/d/1yzvtDqbQiBDK_1XaofL-AU9wZEKK2CTy/view?usp=drive_link"
                   target="_blank"
                 >
                   <img
@@ -284,7 +284,7 @@ const Content = () => {
               </p>
               <div className="flex flex-col items-center justify-center space-y-5 sm:flex-row sm:space-x-5">
                 <a
-                  href="https://www.linkedin.com/in/bharat-bhandari-ba99bb19a/"
+                  href="https://www.linkedin.com/in/ayush-mahato-335128338/"
                   target="_blank"
                 >
                   <button className="px-6 py-2 duration-300 bg-transparent border shadow-sm border-button-color shadow-button-color text-button-color hover:text-white hover:bg-button-color focus:bg-button-color focus:text-white active:bg-button-color active:text-white">
@@ -299,7 +299,7 @@ const Content = () => {
 
         <footer className="hidden mb-5 text-center md:block">
           <a
-            href="https://github.com/Bharat-bhandari"
+            href="https://github.com/Ayush29kumar"
             className="hover:text-link-color"
             target="_blank"
           >
